@@ -1,0 +1,2 @@
+# opencv_vision
+通过pycharm_opencv调取笔记本摄像头
